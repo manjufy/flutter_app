@@ -14,6 +14,5 @@ Demo Flutter App
     > flutter run
  ```
 
-![](/images/Pic-1.png =300x300)
-
-![Favorites Page](/images/Pic-2.png =300x300)
+![](https://raw.githubusercontent.com/manjufy/flutter_app/main/images/Pic-1.png)
+![](https://raw.githubusercontent.com/manjufy/flutter_app/main/images/Pic-2.png)
