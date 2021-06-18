@@ -14,5 +14,4 @@ Demo Flutter App
     > flutter run
  ```
 
-![](https://raw.githubusercontent.com/manjufy/flutter_app/main/images/Pic-1.png)
-![](https://raw.githubusercontent.com/manjufy/flutter_app/main/images/Pic-2.png)
+<img src="https://raw.githubusercontent.com/manjufy/flutter_app/main/images/Pic-1.png" width="300" height="500">       <img src="https://raw.githubusercontent.com/manjufy/flutter_app/main/images/Pic-2.png" height="500">
