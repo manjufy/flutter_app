@@ -1,16 +1,19 @@
 # flutter_app
 
-A new Flutter project.
+Demo Flutter App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ Before running the project make sure to you have flutter and its components are configured in your machine. https://flutter.dev/docs/get-started/install
 
-A few resources to get you started if this is your first Flutter project:
+ ```
+    // mac Os
+    git clone https://github.com/manjufy/flutter_app.git
+    > cd flutter_app
+    > open -a Simulator
+    > flutter run
+ ```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Home Page](/images/Pic-1.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Favorites Page](/images/Pic-2.png)
